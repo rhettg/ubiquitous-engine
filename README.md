@@ -4,7 +4,6 @@ test repo where i can add commits
 ## HI there
 
 
-I've created some stuff.
+I've created some stuff. But for a test
 
-There is content here though
 
